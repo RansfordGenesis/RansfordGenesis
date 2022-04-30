@@ -4,9 +4,11 @@
 
 <!-- ABOUT ME -->
 <section>
-- 🔭I’m a computer enginering student in Kwame Nkrumah University of Science and Technology.
-- 🌱I’m currently learning **Javascript**
-- 📫Contact me: **jefferykyeigenesis@gmail.com**
+
+- 🔭 I’m a computer enginering student in Kwame Nkrumah University of Science and Technology.
+- 🌱 I’m currently learning **Javascript**
+- 📫 Contact me: **jefferykyeigenesis@gmail.com**
+	
 </section>
 <section>
 	<h2>Connect with me 🤝</h2>
