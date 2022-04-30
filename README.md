@@ -14,23 +14,14 @@
 	
 - I’m a computer enginering student in Kwame Nkrumah University of Science and Technology.
 - 🌱 I’m currently learning **Javascript**
-- 📫 How to reach me: **michael.k.a.amankwah@gmail.com**
-- ⚡ About Me:
-
-
-	* **I enjoy anime, reading, documentaries, football and music**
-	* **I love to explore and learn new things that interest me**
-	* **J'apprends la langue française**
-	* **I'm very observant and analytical**
-
-
+- 📫 Contact me: **jefferykyeigeesis@gmail.com**
 </section>
 <section>
 	<h2>Connect with me 🤝</h2>
 	<a href="https://www.linkedin.com/in/jeffery-kyei-baafi/" target ="_blank"><img src="https://raw.githubusercontent.com/escapingyouth/escapingyouth/main/Icons/linkedin.svg" alt=" Michael Appiah | LinkedIn" width="45px" height="45px"/></a>
 	<span>&nbsp;  </span>
 	<span>&nbsp;  </span>
-        <a href="https://twitter.com/_escapingyouth" target ="_blank"><img src="https://raw.githubusercontent.com/escapingyouth/escapingyouth/main/Icons/twitter.svg" alt=" Michael Appiah | Twitter" width="45px" height="45px"/></a>
+        <a href="https://twitter.com/_ransfordgenesis" target ="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt=" Jeffery Kyei Baafi" width="45px" height="45px"/></a>
 	<span>&nbsp;  </span>
 	<span>&nbsp;  </span>
 	<a href="https://www.reddit.com/user/escaping_youth" target ="_blank"><img src="https://raw.githubusercontent.com/escapingyouth/escapingyouth/main/Icons/reddit.svg" alt=" Michael Appiah | Reddit" width="45px" height="45px"/></a>
