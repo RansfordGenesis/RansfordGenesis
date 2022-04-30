@@ -1,7 +1,7 @@
 <h1 align="center"> Hi there <img src ="https://user-images.githubusercontent.com/79151294/164762206-b90b4e56-58ac-4d89-baf2-f9132ccabcdb.gif" width="30px" height:"30px">, I'm Jeffery </h1>
 
 <p align="center">
-  <img src="https://github.com/RansfordGenesis/RansfordGenesis/blob/main/dev.jpg" alt="Dev" width ="950px" height="500px">
+  <img src="https://github.com/RansfordGenesis/RansfordGenesis/blob/main/dev.jpg" alt="Dev" width ="300px" height="150px">
 </p>
 
 <h2 align="center">I am an Aspiring Full Stack developer.</h2>
