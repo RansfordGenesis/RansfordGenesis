@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Jeffery</h1>
+<h1 align="center">Hi 👋, I'm Ransford</h1>
 <h3 align="center">An aspiring full-stack developer from Ghana</h3>
 
 <p align="left"> <a href="https://twitter.com/ransfordgenesis" target="blank"><img src="https://img.shields.io/twitter/follow/ransfordgenesis?logo=twitter&style=for-the-badge" alt="ransfordgenesis" /></a> </p>
