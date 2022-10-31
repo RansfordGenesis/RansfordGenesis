@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ransford</h1>
-<h3 align="center">An backend developer from Ghana</h3>
+<h3 align="center">An aspiring backend developer from Ghana</h3>
 
 <p align="left"> <a href="https://twitter.com/ransfordgenesis" target="blank"><img src="https://img.shields.io/twitter/follow/ransfordgenesis?logo=twitter&style=for-the-badge" alt="ransfordgenesis" /></a> </p>
 
