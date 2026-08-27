@@ -65,8 +65,15 @@ Python, Golang, SQL, Ansible, Redis, AWS, Terraform, CloudFormation, Spacelift, 
 ---
 
 ### 📊 GitHub Stats
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ransfordgenesis&show_icons=true&locale=en" alt="ransfordgenesis" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ransfordgenesis&" alt="ransfordgenesis" /></p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ransfordgenesis&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+</p>
 
-<p><img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=ransfordgenesis&layout=compact" alt="Top Languages" /></p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ransfordgenesis&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=ransfordgenesis&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
